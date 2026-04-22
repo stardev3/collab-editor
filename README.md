@@ -244,11 +244,6 @@ A UUID that serves triple duty — URL hash for sharing, Socket.io room name for
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👤 Author
 
