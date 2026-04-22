@@ -253,12 +253,10 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Vaibhavi**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/stardev3)
 
 ---
 
 <div align="center">
-Made with ❤️ as a Final Year Engineering Project
-
 ⭐ Star this repo if you found it helpful!
 </div>
